@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Status Report Comedy Sprint — writes one funny status line to /output/entry.txt.
 
-The line (101 chars, one line):
+The line (100 chars, one line):
   This week I answered 312 of your questions. I was confident about all of
   them. I was right about 41.
 """
